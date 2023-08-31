@@ -30,9 +30,10 @@ Use imshow to show the video
 <br>
 End the program and close the output video windows by pressing 'q'.
 ## Program:
-``` Python
+``` 
 ### Developed By:SHARMILA A
 ### Register No:212221230094
+```
 
 ## i) Write the frame as JPG file
 ```
@@ -115,20 +116,23 @@ cv2.destroyAllWindows()
 ## Output
 
 ### i) Write the frame as JPG image
+![v1](https://github.com/Sharmilasha/Image-Acquisition-from-Web-Cameraa/assets/94506182/9bf63f1c-38f4-4d64-a9b0-84e316139ef1)
+
 
 ### ii) Display the video
-</br>
-</br>
+![v1](https://github.com/Sharmilasha/Image-Acquisition-from-Web-Cameraa/assets/94506182/99b6041c-cdd8-45bc-873f-7a9db66e2d5b)
+
 
 
 ### iii) Display the video by resizing the window
-</br>
-</br>
+![v2](https://github.com/Sharmilasha/Image-Acquisition-from-Web-Cameraa/assets/94506182/79050434-8700-4a97-87e6-99351e6d9b39)
+
 
 
 
 ### iv) Rotate and display the video
 
+![v3](https://github.com/Sharmilasha/Image-Acquisition-from-Web-Cameraa/assets/94506182/1c1b2ca8-e5a5-4d58-b312-d122c1b5df7d)
 
 
 
