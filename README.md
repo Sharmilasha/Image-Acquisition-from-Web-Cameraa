@@ -24,17 +24,17 @@ Use imread to read the video or image
 Use imwrite to save the image
 
 ### Step 4:
-<br>
+
 Use imshow to show the video
 
-<br>
+
 ### Step 5:
 End the program and close the output video windows by pressing 'q'.
-## Program:
+##  Program:
 ```
 
-### Developed By:SHARMILA A
-### Register No:212221230094
+Developed By:SHARMILA A
+Register No:212221230094
 ```
 ```
 
